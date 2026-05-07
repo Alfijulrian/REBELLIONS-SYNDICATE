@@ -1,0 +1,17 @@
+body {
+    margin: 0;
+    background: #0f0f0f;
+    color: white;
+}
+
+
+/* SCROLLBAR CUSTOM */
+
+::-webkit-scrollbar {
+    width: 6px;
+}
+
+::-webkit-scrollbar-thumb {
+    background: rgba(226, 215, 151, 0.658);
+    border-radius: 10px;
+}

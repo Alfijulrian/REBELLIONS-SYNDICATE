@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+
+    <!-- RESPONSIVE -->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <!-- FAVICON / LOGO TAB -->
+    <link rel="icon" type="image/png" href="/rebell.png" />
+
+    <!-- TITLE -->
+    <title>REBELLIONS SYNDICATE</title>
+
+    <!-- FONT POPPINS -->
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&family=Bebas+Neue&display=swap" rel="stylesheet">
+
+    <!-- FONT SATISFY -->
+    <link href="https://fonts.googleapis.com/css2?family=Satisfy&display=swap" rel="stylesheet">
+
+    <!-- FONT AWESOME ICON -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css" />
+
+    <!-- GLOBAL STYLE -->
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        html {
+            scroll-behavior: smooth;
+        }
+        
+        body {
+            font-family: 'Poppins', sans-serif;
+            background: #0f0f0f;
+            color: white;
+            overflow-x: hidden;
+        }
+        
+        a {
+            text-decoration: none;
+            color: inherit;
+        }
+        
+        img {
+            max-width: 100%;
+            display: block;
+        }
+        /* ===== SCROLLBAR ===== */
+        
+         ::-webkit-scrollbar {
+            width: 7px;
+        }
+        
+         ::-webkit-scrollbar-track {
+            background: #111;
+        }
+        
+         ::-webkit-scrollbar-thumb {
+            background: rgb(226, 215, 151);
+            border-radius: 10px;
+        }
+        
+         ::-webkit-scrollbar-thumb:hover {
+            background: rgb(255, 238, 150);
+        }
+        /* ===== TEXT SELECTION ===== */
+        
+         ::selection {
+            background: rgb(226, 215, 151);
+            color: black;
+        }
+    </style>
+
+</head>
+
+<body>
+
+    <!-- VUE APP -->
+    <div id="app"></div>
+
+    <!-- MAIN JS -->
+    <script type="module" src="/src/main.js"></script>
+
+</body>
+
+</html>
