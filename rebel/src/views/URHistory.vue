@@ -29,7 +29,7 @@
 
     <!-- FOTO 16:9 -->
     <div class="banner-image">
-      <img src="../assets/WhatsApp Image 2026-05-06 at 04.22.39.jpeg" alt="banner" />
+      <img src="../assets/fotoawal.jpeg" alt="banner" />
     </div>
 
     <!-- TEKS 2 -->

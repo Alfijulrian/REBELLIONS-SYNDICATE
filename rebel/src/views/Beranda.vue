@@ -15,7 +15,7 @@
     <div class="history">
 
       <div class="history-img">
-        <img src="../assets/WhatsApp Image 2026-03-30 at 00.14.13.jpeg" />
+        <img src="../assets/alfi.jpeg" />
       </div>
 
       <div class="history-text">
@@ -107,7 +107,7 @@ Kelompok ini terdiri dari anggota yang kuat, berani, berpengalaman,kesetian dan 
 
     <!-- FOTO BAWAH CENTER -->
     <div class="symbol-bottom-image">
-      <img src="../assets/IMG_9766DVC.JPG" />
+      <img src="../assets/fotorame.jpg" />
     </div>
 
   </div>

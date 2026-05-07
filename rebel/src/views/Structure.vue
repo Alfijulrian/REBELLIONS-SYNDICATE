@@ -97,7 +97,7 @@
 
       <!-- FOTO -->
       <div class="road-image">
-        <img src="../assets/WhatsApp Image 2026-03-30 at 00.14.13.jpeg" alt="membership" />
+        <img src="../assets/alfi.jpeg" alt="membership" />
       </div>
 
       <!-- TEXT -->
@@ -232,7 +232,7 @@
       </p>
 
       <div class="member-banner">
-        <img src="../assets/WhatsApp Image 2026-05-06 at 04.22.39.jpeg" alt="member banner" />
+        <img src="../assets/fotorame2.jpg" alt="member banner" />
       </div>
 
     </section>
